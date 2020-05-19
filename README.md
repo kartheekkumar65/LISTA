@@ -1,1 +1,1 @@
-# LISTA
+Pytorch implementation of Learned ISTA
